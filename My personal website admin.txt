@@ -1,0 +1,5 @@
+الرئيسية :      http://localhost/fahad.com/wordpress-6.4.3/wp-admin/index.php
+
+
+
+ زيارة الموقع:                 http://localhost/fahad.com/wordpress-6.4.3/
